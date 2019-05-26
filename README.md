@@ -1,4 +1,4 @@
-# Ray-tracing in C++
+# Ray tracing in C++
 
 This project served as an introduction to ray tracing.
 
